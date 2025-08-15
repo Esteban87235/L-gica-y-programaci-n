@@ -1,0 +1,42 @@
+1.1 Historia de Git y GitHub Git 
+• Creado por: Linus Torvalds (el creador de Linux). 
+• Año: 2005
+Motivo: El equipo de desarrollo del kernel de Linux necesitaba un sistema de control de versiones 
+distribuido, rápido y confiable, después de dejar de usar BitKeeper.
+• Características clave:
+• Distribuido: cada desarrollador tiene una copia completa del repositorio.
+• Rápido y eficiente para proyectos grandes.
+• Seguro: usa hashes SHA-1 para identificar cada cambio.
+ GitHub
+• Fundado en: 2008 por Tom Preston-Werner, Chris Wanstrath y PJ Hyett.
+• Qué es: una plataforma basada en Git que permite alojar repositorios en la nube, colaborar, revisar 
+código, gestionar proyectos y más.
+• Adquirido por Microsoft en 2018
+1.2. ¿Quiénes usan Git y GitHub?
+• Desarrolladores de software (individuales y equipos).
+• Empresas tecnológicas (como Google, Microsoft, Meta, etc.).
+• Científicos de datos y académicos.
+• Diseñadores y creadores de contenido (para versionar archivos).
+• Estudiantes y profesores (para enseñar programación y colaborar en proyectos).
+1.3. Fundamentos teóricos básicos
+ Control de versiones
+Permite llevar un historial de cambios en archivos, facilitando:
+• Volver a versiones anteriores.
+• Colaborar sin sobrescribir el trabajo de otros.
+• Rastrear quién hizo qué y cuándo.
+ Repositorio
+Es el contenedor del proyecto. Puede estar:
+• Local: en tu computadora.
+• Remoto: en GitHub u otro servidor.
+ Comandos clave de Git
+• git init: inicializa un repositorio.
+• git add: prepara archivos para el commit.
+• git commit: guarda los cambios localmente.
+• git push: sube los cambios al repositorio remoto.
+• git pull: trae los cambios del repositorio remoto.
+• git clone: copia un repositorio remoto a tu máquina.
+1.4. Ejemplos de utilidad
+Documentación y wikis: muchos proyectos usan GitHub para documentar su software.
+Automatización con GitHub Actions: puedes compilar, testear y desplegar tu código automáticamente.
+Control de versiones de tesis o libros: incluso escritores usan Git para llevar el control de sus 
+manuscritos
