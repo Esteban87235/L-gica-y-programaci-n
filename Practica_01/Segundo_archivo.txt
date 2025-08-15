@@ -1,0 +1,6 @@
+¿Quiénes usan Git y GitHub?
+• Desarrolladores de software (individuales y equipos).
+• Empresas tecnológicas (como Google, Microsoft, Meta, etc.).
+• Científicos de datos y académicos.
+• Diseñadores y creadores de contenido (para versionar archivos).
+• Estudiantes y profesores (para enseñar programación y colaborar en proyectos).
